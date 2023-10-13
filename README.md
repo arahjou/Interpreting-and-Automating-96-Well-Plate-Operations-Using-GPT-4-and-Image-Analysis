@@ -5,7 +5,7 @@ In my recent interaction with a multimodal language model, I experienced firstha
 Me:
  
 
-The image displays a 96 wells plate with the center of the A1 well and 1 cm above being the zero coordinate. A needle's bottom, at this coordinate, is linked to a syringe holding a liquid. This syringe, controlled by an electric engine, dispenses 1 ul of liquid every second. Additionally, two engines enable the syringe's movement along the x and y axes, moving at 5 mm/s. To deposit liquid, the needle's bottom aligns with a well's center. Each well's center is spaced 0.5 cm apart. I'll now provide a python script that prompts for well numbers and liquid volume, moving the engine accordingly. The engines are managed by a raspberry pi, with connections specified for each axis and liquid control.
+The image displays a 96 wells plate with the center of the A1 well and 1 cm above being the zero coordinate. A needle's bottom, at this coordinate, is linked to a syringe holding a liquid. This syringe, controlled by an electric engine, dispenses 1 ul of liquid every second. Additionally, two engines enable the syringe's movement along the x and y axes, moving at 5 mm/s. To deposit liquid, the needle's bottom aligns with a well's center. Each well's center is spaced 0.5 cm apart. CAn you now provide a python script that prompts for well numbers and liquid volume, moving the engine accordingly. The engines are managed by a raspberry pi, with connections specified for each axis and liquid control.
 
 GPT-4:
 
