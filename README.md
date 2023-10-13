@@ -92,4 +92,8 @@ GPT-4:
 The image does not provide quantitative information about the volume of the liquid in each well. However, if different volumes of liquid lead to different color intensities, and all the pink-colored wells have the same intensity, then we can infer that they have equal volumes of liquid. 
 
 From the image, the pink color in wells B2, D5, and G8 appears to be of similar intensity, which suggests that they likely have equal volumes of liquid. However, to be certain, you would need to use a more quantitative method or tool to measure the liquid volume in each well.
-![image](https://github.com/arahjou/Interpreting-and-Automating-96-Well-Plate-Operations-Using-GPT-4-and-Image-Analysis/assets/88965480/f1eaacd9-4662-4bc2-8522-da00a9a2f537)
+![image](https://github.com/arahjou/Interpreting-and-Automating-96-Well-Plate-Operations-Using-GPT-4-and-Image-Analysis/assets/88965480/2450d69d-effb-4228-a4fa-a94198750275)
+
+![image](https://github.com/arahjou/Interpreting-and-Automating-96-Well-Plate-Operations-Using-GPT-4-and-Image-Analysis/assets/88965480/2591b899-9bc3-41e5-8610-e6d836e6a1f9)
+
+
